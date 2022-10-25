@@ -1,2 +1,2 @@
-# Pok-Pinball
+# PokePinball
 si
